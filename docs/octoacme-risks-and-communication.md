@@ -21,8 +21,10 @@ Maintain a simple table with:
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
-- Provide regular updates (weekly or milestone-based)
+- Provide regular updates (weekly or milestone-based) (Owner: PM)
 - Use a single source of truth (project README or release doc) for status
+- PdM owns product outcome updates and prioritization changes.
+- Support/Success Engineer owns support-facing updates and escalation context.
 
 ## Communication Templates
 Weekly Status Template:
@@ -32,11 +34,13 @@ Weekly Status Template:
 - Ask / decisions needed:
 
 Incident Communication
-- Triage summary
-- Actions being taken
-- Expected timeline
-- Post-incident blameless retrospective scheduled
+- Triage summary (Owner: PM)
+- Actions being taken (Owner: PM + Release Manager)
+- Expected timeline (Owner: PM)
+- Customer/support update (Owner: Support/Success Engineer)
+- Security impact statement when applicable (Owner: Security Champion)
+- Post-incident blameless retrospective scheduled (Owner: PM)
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents: Team-level -> Security Champion -> PM + Release Manager -> Sponsor/Security on-call

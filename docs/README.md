@@ -20,3 +20,4 @@ Quality assurance is embedded from planning through release. Teams align on Defi
 - [OctoAcme — Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [OctoAcme — Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Personas](./octoacme-roles-and-personas.md)
+- [OctoAcme — Definition of Done & Role Handoffs](./octoacme-definition-of-done-and-role-handoffs.md)

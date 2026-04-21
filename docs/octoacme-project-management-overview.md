@@ -17,7 +17,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA/Test Lead: owns quality strategy and acceptance validation.
+- UX/UI Designer: owns usability, accessibility, and design consistency.
+- Release Manager: owns release readiness, deployment coordination, and release communication.
+- Support/Success Engineer: owns support triage, escalation inputs, and post-release feedback.
+- Security Champion: owns security guidance and security escalation coordination.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
@@ -25,6 +29,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
+- [Definition of Done & Role Handoffs Checklist](./octoacme-definition-of-done-and-role-handoffs.md)
 - Risk Register
 - Retrospective notes and action items
 
@@ -43,4 +48,5 @@ Applies to all cross-functional projects that deliver product features, services
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
+- Use the [Definition of Done & Role Handoffs Checklist](./octoacme-definition-of-done-and-role-handoffs.md) during planning, execution, and release readiness reviews.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
